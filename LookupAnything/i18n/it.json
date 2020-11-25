@@ -273,7 +273,7 @@
     "bush.next-harvest": "Prossima raccolta",
 
     // values
-    "bush.growth.summary": "matura il giorno {{date}}",
+    "bush.growth.summary": "Maturerà il giorno {{date}}",
     "bush.schedule.berry": "Ha il 20% di probabilità di far crescere lamponi dal 15 al 18 di Primavera e di far crescere more dal 8 al 11 di Autunno.",
     "bush.schedule.tea": "Fa crescere foglie di té il 22 di ogni stagione (eccetto in inverno se non si trova in una serra).",
 
@@ -390,7 +390,7 @@
     "item.fence-health": "Salute",
 
     // values
-    "item.fence-health.gold-clock": "non si rovina con l'Orologio d'oro",
+    "item.fence-health.gold-clock": "Non si rovina con l'Orologio d'oro",
     "item.fence-health.summary": "{{percent}}% (più o meno {{count}} giorni rimanenti)",
 
 
@@ -436,8 +436,8 @@
     *********/
     // labels
     // TODO
-    "item.music-block.pitch": "Pitch",
-    "item.music-block.drum-type": "Drum type",
+    "item.music-block.pitch": "Tonalità",
+    "item.music-block.drum-type": "Tipo tamburo",
 
 
     /*********
@@ -538,8 +538,8 @@
 
     // values
     "player.farm-map.custom": "Personalizzata",
-    "player.gender.male": "maschile",
-    "player.gender.female": "femminile",
+    "player.gender.male": "maschio",
+    "player.gender.female": "femmina",
     "player.luck.summary": "{{percent}}% di fortuna a molti controlli casuali",
     "player.skill.progress": "livello {{level}} ({{expNeeded}} ESP per il prossimo)",
     "player.skill.progress-last": "livello {{level}}",
